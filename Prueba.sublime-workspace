@@ -1,0 +1,185 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"person",
+				"person2"
+			],
+			[
+				"new",
+				"new_age"
+			],
+			[
+				"rev",
+				"RevOrder"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 196.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"ru",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby on Rails"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/test_install/Classes2.rb",
+		"/C/test_install/Classes 3.rb",
+		"/C/test_install/Classes.rb",
+		"/C/test_install/practice2.rb",
+		"/C/test_install/Fecruency.rb",
+		"/C/test_install/Ranges.rb",
+		"/C/test_install/arrays.rb",
+		"/C/test_install/module2_lesson1_formative.rb",
+		"/C/test_install/SolutionFiles1.rb",
+		"/C/test_install/SolutionFiles1",
+		"/C/test_install/module2_lesson1_formativeS.rb",
+		"/G/VideoIngAbel/RubyOnRailsCurso/Ejemplo1/fullstack-course1-module2/Lecture01-Ruby-Basics/beginning.rb",
+		"/G/VideoIngAbel/RubyOnRailsCurso/Ejemplo1/FIles.rb",
+		"/G/VideoIngAbel/RubyOnRailsCurso/Ejemplo1/test.txt",
+		"/G/VideoIngAbel/RubyOnRailsCurso/Ejemplo1/FIles",
+		"/G/VideoIngAbel/RubyOnRailsCurso/Ejemplo1/Exercises.rb",
+		"/G/VideoIngAbel/RubyOnRailsCurso/Ejemplo1/fullstack-course1-module2/Lecture02-Control-Flow/case_expressions.rb",
+		"/C/test_install/Test.rb",
+		"/C/Users/German.DMDGRH/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/German.DMDGRH/AppData/Roaming/Sublime Text 2/Packages/User/Plain text.sublime-settings",
+		"/C/Users/German.DMDGRH/Mis documentos/git/Prueba/.git/COMMIT_EDITMSG"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 271.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Ejemplo1/test.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 372.0,
+	"status_bar_visible": true
+}
